@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Sprint1css.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>BITLAB NEWS</title>
+</head>
+<body>
+	<div class="headLine">
+		<div class="Bit">
+			<h4>BITLAB <span style="font-weight: normal;">NEWS</span></h4>
+
+		</div>
+		<div class="nav">
+			<h4 style="margin: 5px 10px;"><span style="font-weight: normal;"><a href="Sprint1.html">Home</a></span></h4>
+			<h4 style="margin: 5px 10px;"><span style="font-weight: normal;"><a target="_blank" href="https://www.google.com/search?q=science+news&sca_esv=593203662&tbm=nws&sxsrf=AM9HkKlgiVV5v4dwDlEes0joHGFsVDIzMg:1703308644557&source=lnms&sa=X&ved=2ahUKEwiLlc6V56SDAxV_KBAIHWIsAasQ_AUoAXoECAIQAw&biw=1280&bih=585&dpr=1.5">Science</a></span></h4>
+			<h4 style="margin: 5px 10px;"><span style="font-weight: normal;"><a target="_blank" href="https://www.google.com/search?q=sports+news&sca_esv=593203662&tbm=nws&sxsrf=AM9HkKl5aK-uSecYzkeLQdCTX_pBaXYTVg:1703308680298&source=lnms&sa=X&ved=2ahUKEwjNz9Om56SDAxXbLBAIHRYTD1EQ_AUoAXoECAQQAw&biw=1280&bih=585&dpr=1.5">Sport</a></span></h4>
+			<h4 style="margin: 5px 10px;"><span style="font-weight: normal;"><a target="_blank" href="https://www.google.com/search?q=political+news&sca_esv=593203662&tbm=nws&sxsrf=AM9HkKlPVga7BmQmNcQ__oh1cglWZgYuwA:1703308712958&source=lnms&sa=X&ved=2ahUKEwiAhZ2256SDAxU1FBAIHc8TBSwQ_AUoAXoECAQQAw&biw=1280&bih=585&dpr=1.5">Politics</a></span></h4>
+			<h4 style="margin: 5px 10px;"><span style="font-weight: normal;"><a target="_blank" href="https://www.google.com/search?q=finance+news&sca_esv=593203662&tbm=nws&sxsrf=AM9HkKlKFBwufG2wUV2lu1mzJvPKksyihQ:1703308734079&source=lnms&sa=X&ved=2ahUKEwjRlabA56SDAxVHFRAIHdZ3De0Q_AUoAXoECAMQAw&biw=1280&bih=585&dpr=1.5">Finance</a></span></h4>
+		</div>
+	</div>
+
+<!mmmmmmmmmmmmmmmmmmmmmmm>
+	<div class="mainNews">
+		<div class="mainNewsImg">
+			<img width="450px" src="https://www.thesun.co.uk/wp-content/uploads/2023/12/17-03-2023-sir-jim-864069255-2.jpg?w=960">
+		</div>
+		<div>
+			<h2>Sir Jim Ratcliffe edging closer to 25 per cent investment in Manchester United - Paper Talk</h2>
+			Sir Jim Ratcliffe's deal to buy 25 per cent of Manchester United was in final negotiations on Thursday night after work was undertaken all week to try to complete the paperwork in order to start the process of approvals.
+
+The European Super League has used a landmark court ruling to relaunch with a new format but the UK government says it would block Premier League teams from signing up to another breakaway competition.
+		</div>
+	</div>
+
+<!mmmmmmmmmmmmmmmmmmmmmmm>
+	
+		<div class="s"><h2 class="LateNewsH">Latest news</h2></div>
+		<div class="LateNews">
+			<div id="q1">
+				<div>
+					<img width="200px" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/8B30/production/_132123653_gettyimages-1474948392.jpg.webp">
+				</div>
+				<div>
+					<h3>LA Dodgers: Yoshinobu Yamamoto joins on 12-year deal for reported £256.2m</h3>
+				</div>
+				<div id="b1"><form action="https://www.bbc.com/sport/baseball/67799604" target="_blank"><button>Read more</button></form></div>
+			</div>
+			<div id="q2">
+				<div>
+					<img width="200px" src="https://e0.365dm.com/23/12/768x432/skysports-littler-darts_6400997.jpg">
+				</div>
+				<div>
+					<h3>Luke Littler on 'breaking records like Michael van Gerwen' after World Darts Championship win over Andrew Gilding</h3>
+				</div>
+				<div id="b2"><form target="_blank" action="https://www.skysports.com/darts/news/12288/13035972/luke-littler-on-breaking-records-like-michael-van-gerwen-after-world-darts-championship-win-over-andrew-gilding"><button>Read more</button></form></div>
+			</div>
+			<div id="q3">
+				<div>
+					<img width="200px" src="https://ogden_images.s3.amazonaws.com/www.miningjournal.net/images/2023/12/21161334/hsb-4506-1100x734.jpg">
+				</div>
+				<div>
+					<h3>Norway, Munising compete in High School Bowl | News, Sports, Jobs</h3>
+				</div>
+				<div id="b3"><form target="_blank" action="https://www.miningjournal.net/news/spotlight/2023/12/norway-munising-compete-in-high-school-bowl/"><button>Read more</button></form></div>
+			</div>
+			<div id="q4">
+				<div>
+					<img width="200px" src="https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22000152/AP23356032693482-1100x733.jpg">
+				</div>
+				<div>
+					<h3>Sabres Flip The Script, Score 9 On Maple Leafs</h3>
+				</div>
+				<div id="b4"><form target="_blank" action="https://www.post-journal.com/sports/local-sports/2023/12/sabres-flip-the-script-score-9-on-maple-leafs/"><button>Read more</button></form></div>
+			</div>
+		
+	</div>
+</body>
+</html>
